@@ -6,7 +6,7 @@
 
 Files containing the original unfiltered sequences are available from the NCBI under BioProject number PRJNA749826 (https://www.ncbi.nlm.nih.gov/bioproject/PRJNA749826)
 
-This repository contains following folders - 
+This repository contains following folders
 
 - data/                                 # raw data generated using QIIME2
 - code/                                 # R scripts
